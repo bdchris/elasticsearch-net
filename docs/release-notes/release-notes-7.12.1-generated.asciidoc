@@ -1,0 +1,9 @@
+
+[float]
+[[uncategorized]]
+=== Uncategorized
+
+- * Less flaky test assertions https://github.com/elastic/elasticsearch-net/pull/5462[#5462]  (issue: https://github.com/elastic/elasticsearch-net/issues/5446[#5446])
+- * Correct the JSON name for the position length on tokens https://github.com/elastic/elasticsearch-net/pull/5499[#5499]  (issue: https://github.com/elastic/elasticsearch-net/issues/5498[#5498])
+
+
